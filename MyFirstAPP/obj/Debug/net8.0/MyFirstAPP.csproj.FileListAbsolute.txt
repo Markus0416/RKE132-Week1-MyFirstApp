@@ -1,0 +1,14 @@
+C:\Users\mursa\source\repos\MyFirstAPP\MyFirstAPP\bin\Debug\net8.0\MyFirstAPP.exe
+C:\Users\mursa\source\repos\MyFirstAPP\MyFirstAPP\bin\Debug\net8.0\MyFirstAPP.deps.json
+C:\Users\mursa\source\repos\MyFirstAPP\MyFirstAPP\bin\Debug\net8.0\MyFirstAPP.runtimeconfig.json
+C:\Users\mursa\source\repos\MyFirstAPP\MyFirstAPP\bin\Debug\net8.0\MyFirstAPP.dll
+C:\Users\mursa\source\repos\MyFirstAPP\MyFirstAPP\bin\Debug\net8.0\MyFirstAPP.pdb
+C:\Users\mursa\source\repos\MyFirstAPP\MyFirstAPP\obj\Debug\net8.0\MyFirstAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mursa\source\repos\MyFirstAPP\MyFirstAPP\obj\Debug\net8.0\MyFirstAPP.AssemblyInfoInputs.cache
+C:\Users\mursa\source\repos\MyFirstAPP\MyFirstAPP\obj\Debug\net8.0\MyFirstAPP.AssemblyInfo.cs
+C:\Users\mursa\source\repos\MyFirstAPP\MyFirstAPP\obj\Debug\net8.0\MyFirstAPP.csproj.CoreCompileInputs.cache
+C:\Users\mursa\source\repos\MyFirstAPP\MyFirstAPP\obj\Debug\net8.0\MyFirstAPP.dll
+C:\Users\mursa\source\repos\MyFirstAPP\MyFirstAPP\obj\Debug\net8.0\refint\MyFirstAPP.dll
+C:\Users\mursa\source\repos\MyFirstAPP\MyFirstAPP\obj\Debug\net8.0\MyFirstAPP.pdb
+C:\Users\mursa\source\repos\MyFirstAPP\MyFirstAPP\obj\Debug\net8.0\MyFirstAPP.genruntimeconfig.cache
+C:\Users\mursa\source\repos\MyFirstAPP\MyFirstAPP\obj\Debug\net8.0\ref\MyFirstAPP.dll
